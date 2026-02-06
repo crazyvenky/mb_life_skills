@@ -67,10 +67,10 @@ The INSERT INTO statement adds new rows to a table. We can insert single or mult
 INSERT INTO Employees (EmpID, EmpName, Department, Salary, City, JoinDate) VALUES
 (101, 'Rajesh Kumar', 'Sales', 45000.00, 'Mumbai', '2022-03-15'),
 (102, 'Priya Sharma', 'IT', 65000.00, 'Bangalore', '2021-07-20'),
-(103, 'Amit Patel', 'Sales', 42000.00, 'Ahmedabad', '2023-01-10'),
-(104, 'Sneha Reddy', 'Finance', 72000.00, 'Hyderabad', '2020-11-05'),
+(103, 'Amit Shaw', 'Sales', 42000.00, 'Ahmedabad', '2023-01-10'),
+(104, 'Arjun Reddy', 'Cardiologist', 172000.00, 'Hyderabad', '2023-11-05'),
 (105, 'Vikram Singh', 'IT', 68000.00, 'Pune', '2021-09-18'),
-(106, 'Ananya Iyer', 'HR', 50000.00, 'Chennai', '2022-06-12');
+(106, 'Kattappa', 'HR', 50000.00, 'Chennai', '2022-06-12');
 
 INSERT INTO Sales (SaleID, ProductName, SaleAmount, EmpID, SaleDate) VALUES
 (201, 'Laptop', 45000.00, 101, '2024-01-15'),
