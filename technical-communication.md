@@ -464,10 +464,8 @@ Understanding these fundamental concepts provides a solid foundation for more ad
 
 ## References
 
-* [MySQL Official Documentation](https://dev.mysql.com/doc/)
 * [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 * [W3Schools MySQL Tutorial](https://www.w3schools.com/mysql/)
 * [GeeksforGeeks SQL Tutorial](https://www.geeksforgeeks.org/sql-tutorial/)
 * [MySQL Tutorial by TutorialsPoint](https://www.tutorialspoint.com/mysql/index.htm)
 * [SQL Joins Explained](https://www.sql-join.com/)
-* [Learn SQL - Mode Analytics](https://mode.com/sql-tutorial/)
