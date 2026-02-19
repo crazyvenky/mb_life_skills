@@ -1,8 +1,8 @@
-# Tiny Habits + Atomic Habits (Quick Reflection)
+# Atomic Habits
 
 ---
 
-### Question 1: Most interesting story/idea
+### Question 1: Most interesting idea
 The most interesting idea was that even extremely small habits (like 1 push-up or flossing 1 tooth) can build real long-term change because they remove the need for high motivation.
 
 ---
@@ -24,7 +24,7 @@ Basically, **what you celebrate becomes automatic.**
 
 ---
 
-### Question 4: Most interesting story/idea
+### Question 4: Most interesting idea
 The best idea was how small improvements compound over time — getting 1% better daily looks small now, but it becomes a huge difference after weeks and months.
 
 ---
@@ -49,7 +49,7 @@ To break a habit, make it harder by increasing friction: remove cues, add obstac
 
 Steps to improve it:  
 - Keep food/snacks visible and ready (make the cue obvious)  
-- Make it easy by meal prepping or keeping quick options like bananas, nuts, eggs, milk, and bread (make it easy)  
+- keeping quick options like bananas, nuts, eggs, milk, and bread (make it easy)  
 - Make it attractive by eating calorie-dense food that I actually enjoy (make it attractive)  
 - Track meals like a streak or reward myself after finishing meals (make it satisfying)  
 
@@ -61,9 +61,9 @@ Steps to improve it:
 
 Steps to reduce it:
 - Keep the phone away from the bed (cue invisible)
-- Turn off notifications (less tempting)
-- Add friction like app blockers (harder)
-- Replace it with a book or music so scrolling feels pointless (unsatisfying)
+- Bed Time Mode ON, No notifications (less tempting)
+- Add friction like app blockers,time based etc (harder)
+- Replace it with music/ audio podcast so scrolling feels pointless (unsatisfying)
 
 ---
 
