@@ -36,7 +36,8 @@ If I Face Harassment Personally:
 ```
 ```
 If I Witness Harassment Happening to others:
-🔹I use %D's of Bystander Intervention
+🔹I use 5D's of Bystander Intervention
+    🔹Distract
     🔹Delegate
     🔹Document
     🔹Delay
